@@ -14,7 +14,7 @@ import math
 from pysph.base.utils import get_particle_array
 from pysph.base import utils
 from pysph.base import nnps
-from pyzoltan.core.carray import UIntArray
+from cyarray.carray import UIntArray
 import argparse
 from argparse import RawTextHelpFormatter
 

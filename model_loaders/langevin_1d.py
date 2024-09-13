@@ -103,7 +103,7 @@ class Langevin(ModelLoader):
                 get_potentials_epsilon() methoc.
 
         """
-        return np.load(fname)
+        return np.loadtxt(fname)
 
     def get_potentials_epsilon(self, data):
         """ Return PotentialEnergy(epsilons)
