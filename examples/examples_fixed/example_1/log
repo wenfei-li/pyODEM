@@ -1,0 +1,710 @@
+simulation run 1
+starting simulation step...
+  iteration            = 0 
+  potentials_file      = potentials 
+  model_params_file    = model_params 
+
+real    0m10.718s
+user    0m10.615s
+sys     0m0.089s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 0 
+  potentials_file      = potentials 
+  model_params_file    = model_params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [5.1000e-05 2.0000e-05 1.6000e-05 1.9000e-05 1.9000e-05 2.1000e-05
+ 4.0000e-05 5.5000e-05 2.5000e-05 1.0800e-04 4.9000e-05 5.8000e-05
+ 6.3000e-05 1.0000e-04 2.1300e-04 1.5700e-04 1.2600e-04 1.6300e-04
+ 1.4300e-04 2.9300e-04 5.1600e-04 3.3300e-04 2.4700e-04 3.1100e-04
+ 2.3700e-04 1.5700e-04 1.5400e-04 2.1700e-04 3.0200e-04 3.6000e-04
+ 3.4200e-04 3.6500e-04 5.1100e-04 6.5800e-04 7.5700e-04 8.6000e-04
+ 7.1500e-04 7.4900e-04 7.3200e-04 7.7300e-04 9.6800e-04 1.0220e-03
+ 1.1210e-03 1.4660e-03 9.7400e-04 1.3520e-03 1.3210e-03 1.2780e-03
+ 1.2260e-03 1.0650e-03 1.0690e-03 1.3350e-03 1.4870e-03 1.6930e-03
+ 2.0080e-03 1.9110e-03 1.9230e-03 1.8270e-03 1.8040e-03 2.0400e-03
+ 2.0890e-03 2.1480e-03 2.1160e-03 1.9910e-03 2.0680e-03 2.1910e-03
+ 2.4010e-03 2.5180e-03 2.3940e-03 2.5680e-03 2.8320e-03 3.0200e-03
+ 2.7820e-03 2.8190e-03 2.8910e-03 2.7370e-03 3.0420e-03 3.3030e-03
+ 3.3150e-03 3.4540e-03 3.6340e-03 3.6100e-03 3.2400e-03 3.4400e-03
+ 3.2790e-03 3.3760e-03 3.4110e-03 3.8350e-03 3.3070e-03 3.5230e-03
+ 3.6960e-03 3.6120e-03 3.7580e-03 4.3870e-03 4.1490e-03 3.9150e-03
+ 4.3040e-03 4.5430e-03 5.1030e-03 5.6590e-03 6.3370e-03 6.4870e-03
+ 7.0950e-03 8.1480e-03 8.5700e-03 1.0192e-02 1.1168e-02 1.2737e-02
+ 1.3868e-02 1.6003e-02 1.7534e-02 1.9452e-02 2.1291e-02 2.4585e-02
+ 2.5834e-02 2.8175e-02 3.2358e-02 3.4125e-02 3.6126e-02 3.8547e-02
+ 3.9020e-02 3.9059e-02 3.8717e-02 3.7397e-02 3.6015e-02 3.3088e-02
+ 3.1147e-02 2.7587e-02 2.3046e-02 2.1251e-02 1.9113e-02 1.5957e-02
+ 1.3100e-02 1.1122e-02 9.7330e-03 8.0690e-03 6.3070e-03 5.8200e-03
+ 5.1290e-03 4.1270e-03 3.3330e-03 3.1510e-03 2.5000e-03 2.2330e-03
+ 1.9730e-03 1.6860e-03 1.3120e-03 9.0100e-04 7.1400e-04 6.2900e-04
+ 5.5100e-04 5.8400e-04 6.7400e-04 3.8400e-04 4.5600e-04 4.1200e-04
+ 3.4300e-04 3.0600e-04 4.2900e-04 3.5300e-04 3.2500e-04 2.3300e-04
+ 2.5700e-04 3.4300e-04 1.4500e-04 1.4800e-04 1.1400e-04 9.0000e-05
+ 1.3500e-04 6.6000e-05 6.9000e-05 5.5000e-05 6.7000e-05 6.9000e-05
+ 7.8000e-05 3.1000e-05 9.3000e-05 3.6000e-05 1.1400e-04 1.4700e-04
+ 6.1000e-05 8.3000e-05 4.8000e-05 1.0400e-04 4.6000e-05 1.4000e-05
+ 1.1000e-05 1.1000e-05 1.0000e-05 1.1000e-05 1.4000e-05 1.7000e-05
+ 1.8000e-05 3.5000e-05 2.3000e-05 2.8000e-05 1.9000e-05 1.5000e-05
+ 2.7000e-05 4.5000e-05]
+Initializaiton Completed: 0.000631 Minutes
+Starting Optimization
+Optimization Complete: 0.010208 minutes
+Epsilons are: 
+[1.04607239 0.95749618]
+[1. 0.]
+
+Qold: -0.055472
+Qnew: -0.954256
+
+real    0m2.495s
+user    0m2.328s
+sys     0m0.100s
+Starting the next step...
+  iteration            = 0 
+  potentials_file      = potentials 
+  model_params_file    = model_params 
+  iteration            = 0 
+  potentials_file      = potentials 
+  model_params_file    = model_params 
+simulation run 2
+starting simulation step...
+  iteration            = 1 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_0/newton/params 
+
+real    0m10.617s
+user    0m10.522s
+sys     0m0.082s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 1 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_0/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [5.4000e-05 9.9000e-05 5.9000e-05 1.3300e-04 7.1000e-05 1.3300e-04
+ 1.7900e-04 9.9000e-05 8.1000e-05 1.0700e-04 2.6000e-05 4.0000e-05
+ 8.5000e-05 4.1000e-05 1.0000e-04 1.0900e-04 1.2100e-04 5.7000e-05
+ 5.6000e-05 1.0300e-04 7.5000e-05 1.2800e-04 9.3000e-05 7.3000e-05
+ 7.3000e-05 7.3000e-05 1.1300e-04 9.4000e-05 1.1600e-04 2.1500e-04
+ 1.6900e-04 1.3100e-04 1.6900e-04 4.2900e-04 5.4900e-04 4.0900e-04
+ 4.5400e-04 6.4100e-04 6.2900e-04 7.3600e-04 9.1600e-04 8.8600e-04
+ 9.8700e-04 1.3630e-03 1.3820e-03 1.9320e-03 2.0060e-03 2.4750e-03
+ 2.5280e-03 2.9380e-03 3.4390e-03 4.4930e-03 5.6440e-03 5.6770e-03
+ 6.4770e-03 7.8900e-03 8.3120e-03 9.2270e-03 1.0380e-02 1.1516e-02
+ 1.2690e-02 1.3780e-02 1.4870e-02 1.4972e-02 1.5167e-02 1.6399e-02
+ 1.6400e-02 1.5752e-02 1.6211e-02 1.6163e-02 1.5911e-02 1.5702e-02
+ 1.4255e-02 1.2638e-02 1.1416e-02 1.1638e-02 1.0478e-02 9.2710e-03
+ 8.4250e-03 8.4340e-03 7.5040e-03 6.5580e-03 5.7890e-03 5.4430e-03
+ 5.0490e-03 4.8830e-03 4.5840e-03 4.2120e-03 3.4000e-03 3.0280e-03
+ 3.1420e-03 3.2620e-03 3.1210e-03 3.1140e-03 3.0720e-03 2.9700e-03
+ 2.8480e-03 2.9540e-03 2.8640e-03 2.8260e-03 3.0310e-03 3.2080e-03
+ 3.1370e-03 2.8880e-03 3.1450e-03 3.7080e-03 3.9040e-03 4.0520e-03
+ 4.5980e-03 4.8580e-03 5.4660e-03 6.0030e-03 6.6330e-03 7.2510e-03
+ 8.2590e-03 8.9390e-03 1.0177e-02 1.1491e-02 1.2406e-02 1.3492e-02
+ 1.5994e-02 1.7300e-02 1.8685e-02 2.0275e-02 2.1065e-02 2.0812e-02
+ 2.1894e-02 2.2618e-02 2.1696e-02 2.1745e-02 2.1271e-02 2.1948e-02
+ 2.0647e-02 1.8719e-02 1.7022e-02 1.4900e-02 1.4225e-02 1.3197e-02
+ 1.1001e-02 9.4150e-03 8.5080e-03 7.5690e-03 6.3620e-03 5.0080e-03
+ 4.3400e-03 3.4060e-03 3.0850e-03 2.5470e-03 2.5390e-03 1.9090e-03
+ 1.8480e-03 1.4300e-03 1.2720e-03 1.0740e-03 1.2740e-03 9.5300e-04
+ 8.2600e-04 6.5000e-04 7.2000e-04 6.7700e-04 3.8400e-04 4.5800e-04
+ 3.2800e-04 3.3800e-04 2.8000e-04 2.9000e-04 2.6500e-04 1.8500e-04
+ 2.1600e-04 2.3700e-04 1.4200e-04 9.0000e-05 1.4600e-04 9.4000e-05
+ 3.4000e-05 4.0000e-05 4.8000e-05 5.1000e-05 2.4000e-05 3.0000e-05
+ 2.4000e-05 3.0000e-05 3.3000e-05 2.5000e-05 3.4000e-05 4.3000e-05
+ 3.5000e-05 1.0000e-05 1.1000e-05 1.2000e-05 1.2000e-05 1.3000e-05
+ 1.6000e-05 1.6000e-05 1.4000e-05 1.9000e-05 2.5000e-05 2.0000e-05
+ 2.9000e-05 4.2000e-05]
+Initializaiton Completed: 0.000709 Minutes
+Starting Optimization
+Optimization Complete: 0.004205 minutes
+Epsilons are: 
+[1.00799901 1.02027416]
+[1.04607239 0.95749618]
+
+Qold: -0.892275
+Qnew: -0.964598
+
+real    0m2.156s
+user    0m1.972s
+sys     0m0.114s
+Starting the next step...
+  iteration            = 1 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_0/newton/params 
+  iteration            = 1 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_0/newton/params 
+simulation run 3
+starting simulation step...
+  iteration            = 2 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_1/newton/params 
+
+real    0m10.482s
+user    0m10.398s
+sys     0m0.071s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 2 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_1/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [3.4000e-05 1.9000e-05 1.8000e-05 1.6000e-05 1.4000e-05 8.3000e-05
+ 4.9000e-05 2.8000e-05 6.7000e-05 7.3000e-05 5.3000e-05 4.5000e-05
+ 7.9000e-05 1.3500e-04 1.4500e-04 1.7000e-04 1.8100e-04 1.3100e-04
+ 1.1700e-04 1.5400e-04 2.5900e-04 2.5300e-04 2.8900e-04 2.6100e-04
+ 3.4700e-04 3.8100e-04 2.8500e-04 3.8700e-04 4.4000e-04 4.2200e-04
+ 4.9200e-04 5.4400e-04 7.7100e-04 1.0240e-03 1.1260e-03 1.5990e-03
+ 1.8490e-03 1.6130e-03 2.5140e-03 3.0830e-03 3.5980e-03 3.9460e-03
+ 4.3470e-03 5.2860e-03 6.1040e-03 7.1770e-03 7.8580e-03 9.4680e-03
+ 1.1631e-02 1.3182e-02 1.4263e-02 1.6052e-02 1.7498e-02 1.9181e-02
+ 1.9894e-02 2.0565e-02 2.1490e-02 2.2334e-02 2.2945e-02 2.2730e-02
+ 2.1721e-02 2.2084e-02 2.1960e-02 1.9766e-02 1.7213e-02 1.5784e-02
+ 1.3856e-02 1.2604e-02 1.0509e-02 1.0144e-02 8.9270e-03 7.4340e-03
+ 6.8420e-03 6.4150e-03 5.0880e-03 4.6530e-03 4.3320e-03 4.0910e-03
+ 3.8340e-03 3.3420e-03 3.4680e-03 3.5280e-03 3.1210e-03 3.3900e-03
+ 2.9310e-03 2.9760e-03 3.7890e-03 3.0520e-03 2.9660e-03 2.9390e-03
+ 3.0350e-03 3.3460e-03 3.8190e-03 3.8010e-03 3.4270e-03 4.1470e-03
+ 4.2670e-03 4.6360e-03 4.3560e-03 4.7760e-03 6.0250e-03 7.3390e-03
+ 7.7290e-03 8.3680e-03 9.2570e-03 1.1386e-02 1.1252e-02 1.2940e-02
+ 1.3224e-02 1.5066e-02 1.5608e-02 1.8185e-02 1.8151e-02 1.8262e-02
+ 2.0613e-02 2.1044e-02 2.0159e-02 2.0207e-02 1.9213e-02 1.8445e-02
+ 1.7374e-02 1.5296e-02 1.2502e-02 1.1505e-02 9.6550e-03 8.8040e-03
+ 7.8320e-03 6.8780e-03 5.3140e-03 4.5570e-03 3.7280e-03 3.2630e-03
+ 2.7390e-03 2.1470e-03 1.7880e-03 1.4950e-03 1.1700e-03 9.8300e-04
+ 8.9600e-04 7.7600e-04 8.5300e-04 8.1300e-04 4.7700e-04 4.4400e-04
+ 4.5900e-04 3.3900e-04 3.8400e-04 2.4200e-04 3.4400e-04 1.8600e-04
+ 1.2200e-04 1.4000e-04 1.5000e-04 1.9900e-04 1.1100e-04 9.2000e-05
+ 8.3000e-05 1.1800e-04 4.0000e-05 9.0000e-06 1.0000e-05 5.0000e-05
+ 4.3000e-05 4.3000e-05 9.1000e-05 1.0800e-04 5.2000e-05 5.9000e-05
+ 1.0100e-04 7.8000e-05 2.6000e-05 2.5000e-05 5.9000e-05 2.1000e-05
+ 9.1000e-05 3.6000e-05 3.4000e-05 5.5000e-05 9.2000e-05 5.1000e-05
+ 7.3000e-05 9.9000e-05 5.0000e-05 7.3000e-05 4.7000e-05 1.0000e-05
+ 1.0000e-05 1.2000e-05 1.2000e-05 1.4000e-05 1.7000e-05 1.7000e-05
+ 2.1000e-05 2.8000e-05 2.8000e-05 2.2000e-05 2.2000e-05 1.8000e-05
+ 1.9000e-05 3.5000e-05]
+Initializaiton Completed: 0.000625 Minutes
+Starting Optimization
+Optimization Complete: 0.004478 minutes
+Epsilons are: 
+[1.0007193  0.96199207]
+[1.00799901 1.02027416]
+
+Qold: -0.93508
+Qnew: -0.957074
+
+real    0m2.178s
+user    0m2.028s
+sys     0m0.088s
+Starting the next step...
+  iteration            = 2 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_1/newton/params 
+  iteration            = 2 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_1/newton/params 
+simulation run 4
+starting simulation step...
+  iteration            = 3 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_2/newton/params 
+
+real    0m10.613s
+user    0m10.533s
+sys     0m0.068s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 3 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_2/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [8.7000e-05 1.8000e-05 1.3000e-05 1.2000e-05 1.4000e-05 2.2000e-05
+ 2.0000e-05 6.5000e-05 6.3000e-05 1.5300e-04 2.0000e-05 1.4000e-05
+ 1.3000e-05 1.5000e-05 1.5000e-05 1.4000e-05 1.5000e-05 1.9000e-05
+ 1.3000e-05 1.9000e-05 5.4000e-05 5.5000e-05 8.6000e-05 1.0900e-04
+ 6.9000e-05 7.3000e-05 4.5000e-05 4.6000e-05 7.0000e-05 8.8000e-05
+ 6.2000e-05 1.6800e-04 2.5700e-04 3.0100e-04 3.2800e-04 3.4200e-04
+ 5.0400e-04 6.0000e-04 6.3200e-04 8.0900e-04 9.0200e-04 8.0000e-04
+ 8.8000e-04 1.2030e-03 1.4020e-03 1.7600e-03 2.0560e-03 2.2850e-03
+ 2.3850e-03 2.7880e-03 2.6600e-03 3.3560e-03 3.9150e-03 4.1150e-03
+ 5.2020e-03 6.0100e-03 7.3610e-03 8.6730e-03 9.5830e-03 1.0780e-02
+ 1.2644e-02 1.3706e-02 1.5002e-02 1.5776e-02 1.6072e-02 1.6093e-02
+ 1.6198e-02 1.6726e-02 1.7796e-02 1.8250e-02 1.6658e-02 1.6311e-02
+ 1.6126e-02 1.5016e-02 1.4549e-02 1.3585e-02 1.2332e-02 1.1381e-02
+ 1.0027e-02 9.9970e-03 8.0890e-03 7.9780e-03 7.2590e-03 6.1150e-03
+ 6.0270e-03 5.6860e-03 5.4240e-03 4.3680e-03 4.5170e-03 3.7940e-03
+ 3.8960e-03 3.9510e-03 3.7200e-03 4.0230e-03 4.0650e-03 3.4690e-03
+ 3.0070e-03 2.8870e-03 3.1980e-03 3.4590e-03 2.8970e-03 2.9850e-03
+ 3.2650e-03 3.4380e-03 3.2120e-03 3.6240e-03 3.3480e-03 3.9980e-03
+ 4.3360e-03 4.7830e-03 5.1710e-03 5.8050e-03 6.5290e-03 7.3040e-03
+ 7.3120e-03 8.0300e-03 9.4020e-03 1.0476e-02 1.1324e-02 1.2883e-02
+ 1.4093e-02 1.5661e-02 1.6958e-02 1.7002e-02 1.8216e-02 1.9895e-02
+ 1.9150e-02 2.0558e-02 2.1703e-02 2.0942e-02 2.0365e-02 1.9914e-02
+ 1.9084e-02 1.7694e-02 1.6366e-02 1.5258e-02 1.3960e-02 1.2425e-02
+ 1.0799e-02 1.0159e-02 8.9750e-03 7.5740e-03 6.1760e-03 5.0800e-03
+ 5.0160e-03 4.0870e-03 3.6590e-03 3.3290e-03 2.9570e-03 2.7180e-03
+ 2.1720e-03 1.4940e-03 1.2200e-03 1.0740e-03 1.0770e-03 9.5100e-04
+ 8.3500e-04 6.8600e-04 6.6800e-04 5.5500e-04 4.7700e-04 3.8300e-04
+ 4.3700e-04 3.4400e-04 3.7400e-04 3.5300e-04 4.1800e-04 2.2100e-04
+ 2.8000e-04 2.1000e-04 2.3400e-04 2.8500e-04 3.0700e-04 3.0100e-04
+ 1.5600e-04 1.2900e-04 1.2200e-04 1.0400e-04 1.6600e-04 8.3000e-05
+ 9.2000e-05 1.2100e-04 6.7000e-05 6.4000e-05 4.8000e-05 5.0000e-05
+ 1.4800e-04 7.2000e-05 4.7000e-05 3.7000e-05 4.9000e-05 6.4000e-05
+ 4.7000e-05 9.5000e-05 9.9000e-05 4.6000e-05 4.7000e-05 3.6000e-05
+ 2.0000e-05 1.2500e-04]
+Initializaiton Completed: 0.000613 Minutes
+Starting Optimization
+Optimization Complete: 0.004251 minutes
+Epsilons are: 
+[1.02943956 1.04781906]
+[1.0007193  0.96199207]
+
+Qold: -0.929536
+Qnew: -0.960617
+
+real    0m2.119s
+user    0m1.965s
+sys     0m0.094s
+Starting the next step...
+  iteration            = 3 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_2/newton/params 
+  iteration            = 3 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_2/newton/params 
+simulation run 5
+starting simulation step...
+  iteration            = 4 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_3/newton/params 
+
+real    0m10.655s
+user    0m10.581s
+sys     0m0.062s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 4 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_3/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [5.2000e-05 3.2000e-05 2.9000e-05 6.6000e-05 1.7000e-05 1.5000e-05
+ 1.3000e-05 1.4000e-05 1.8000e-05 1.5000e-05 1.4000e-05 1.4000e-05
+ 1.4000e-05 1.4000e-05 1.2000e-05 1.0000e-05 1.2000e-05 1.2000e-05
+ 1.4000e-05 1.3000e-05 1.2000e-05 1.5000e-05 1.4000e-05 1.2000e-05
+ 1.1000e-05 1.3000e-05 1.4000e-05 1.4000e-05 4.0000e-05 6.4000e-05
+ 2.6000e-05 2.5000e-05 2.4000e-05 1.6000e-05 1.5000e-05 1.1000e-05
+ 1.2000e-05 1.2000e-05 1.2000e-05 1.1000e-05 1.1000e-05 1.2000e-05
+ 1.4000e-05 4.4000e-05 4.8000e-05 1.6000e-04 9.0000e-05 1.5300e-04
+ 3.1800e-04 1.2100e-04 2.1200e-04 8.8000e-05 7.4000e-05 8.2000e-05
+ 7.0000e-05 9.2000e-05 8.8000e-05 7.2000e-05 1.0000e-04 8.7000e-05
+ 6.3000e-05 8.0000e-05 7.2000e-05 8.2000e-05 7.3000e-05 9.8000e-05
+ 3.6900e-04 2.1200e-04 1.7900e-04 3.1500e-04 2.6600e-04 3.4900e-04
+ 2.7600e-04 2.4800e-04 4.1500e-04 4.4700e-04 4.0700e-04 6.9000e-04
+ 7.1600e-04 7.0100e-04 1.0420e-03 1.4110e-03 1.9290e-03 2.0700e-03
+ 2.2250e-03 2.5810e-03 3.5550e-03 4.2970e-03 5.8450e-03 7.0830e-03
+ 8.2010e-03 1.0276e-02 1.1476e-02 1.3421e-02 1.5276e-02 1.8282e-02
+ 2.0351e-02 2.1595e-02 2.3050e-02 2.4191e-02 2.5663e-02 2.5230e-02
+ 2.4985e-02 2.4245e-02 2.3143e-02 2.2390e-02 1.9837e-02 1.8074e-02
+ 1.5824e-02 1.3620e-02 1.3027e-02 1.1142e-02 9.8330e-03 8.4630e-03
+ 7.8820e-03 6.6150e-03 6.2820e-03 5.4590e-03 4.7890e-03 4.2190e-03
+ 3.9000e-03 3.5420e-03 3.7170e-03 3.1770e-03 3.4520e-03 3.3420e-03
+ 3.3420e-03 3.4920e-03 2.5770e-03 2.9830e-03 3.4300e-03 3.7610e-03
+ 3.9060e-03 4.7520e-03 5.4270e-03 6.4940e-03 6.1340e-03 6.7500e-03
+ 7.9310e-03 9.6760e-03 1.1325e-02 1.2334e-02 1.3368e-02 1.4756e-02
+ 1.6428e-02 1.7907e-02 2.0081e-02 2.1844e-02 2.2912e-02 2.4810e-02
+ 2.5657e-02 2.4363e-02 2.3442e-02 2.1268e-02 1.9487e-02 1.7533e-02
+ 1.5078e-02 1.3198e-02 1.1641e-02 1.0153e-02 9.1900e-03 7.9470e-03
+ 5.9590e-03 4.7210e-03 3.8410e-03 3.0960e-03 2.4920e-03 2.2260e-03
+ 1.5850e-03 1.3570e-03 1.1290e-03 8.5300e-04 8.5900e-04 1.0990e-03
+ 1.1420e-03 7.8400e-04 6.0000e-04 4.1000e-04 3.6900e-04 5.0200e-04
+ 4.5900e-04 3.0600e-04 2.8700e-04 1.9900e-04 1.6400e-04 2.5400e-04
+ 2.1100e-04 1.6300e-04 1.8800e-04 8.8000e-05 1.3500e-04 3.9000e-05
+ 3.8000e-05 4.5000e-05 1.6000e-05 1.5000e-05 1.4000e-05 8.3000e-05
+ 7.9000e-05 4.0000e-05]
+Initializaiton Completed: 0.000614 Minutes
+Starting Optimization
+Optimization Complete: 0.004284 minutes
+Epsilons are: 
+[1.05624374 1.04854713]
+[1.02943956 1.04781906]
+
+Qold: -0.9216
+Qnew: -0.927053
+
+real    0m2.138s
+user    0m1.968s
+sys     0m0.109s
+Starting the next step...
+  iteration            = 4 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_3/newton/params 
+  iteration            = 4 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_3/newton/params 
+simulation run 6
+starting simulation step...
+  iteration            = 5 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_4/newton/params 
+
+real    0m10.547s
+user    0m10.476s
+sys     0m0.059s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 5 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_4/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [7.9000e-05 6.8000e-05 4.8000e-05 5.5000e-05 6.4000e-05 1.3000e-05
+ 1.1000e-05 1.3000e-05 1.1000e-05 1.1000e-05 1.0000e-05 9.0000e-06
+ 1.3000e-05 9.1000e-05 1.0100e-04 1.1700e-04 2.7100e-04 3.9300e-04
+ 2.4800e-04 3.1700e-04 2.1500e-04 1.9000e-04 1.1100e-04 1.0300e-04
+ 9.6000e-05 2.7400e-04 3.0300e-04 1.9500e-04 2.0500e-04 2.4500e-04
+ 3.8800e-04 3.2200e-04 4.2800e-04 3.7800e-04 5.3800e-04 4.3100e-04
+ 6.0400e-04 6.2000e-04 8.0700e-04 7.2600e-04 7.4900e-04 9.1100e-04
+ 8.8200e-04 1.1530e-03 1.4380e-03 1.4940e-03 1.5580e-03 2.2520e-03
+ 2.4920e-03 2.8150e-03 3.6500e-03 4.3750e-03 5.2860e-03 6.3680e-03
+ 7.4250e-03 8.1290e-03 1.0005e-02 1.0887e-02 1.2281e-02 1.4009e-02
+ 1.5374e-02 1.7114e-02 1.7674e-02 1.7837e-02 1.9250e-02 1.9806e-02
+ 1.9413e-02 1.9205e-02 1.9584e-02 1.7181e-02 1.5931e-02 1.4152e-02
+ 1.3224e-02 1.1603e-02 1.0589e-02 1.0220e-02 8.6760e-03 8.5170e-03
+ 7.8370e-03 7.1590e-03 6.2650e-03 5.5520e-03 4.7940e-03 4.7830e-03
+ 4.2010e-03 3.7790e-03 3.6980e-03 3.1590e-03 2.9040e-03 2.9500e-03
+ 3.0320e-03 3.1660e-03 3.0730e-03 3.0380e-03 3.1840e-03 3.1890e-03
+ 3.1470e-03 3.2030e-03 3.1480e-03 3.2380e-03 3.0410e-03 3.3020e-03
+ 4.0200e-03 4.7350e-03 4.7340e-03 5.3120e-03 5.9600e-03 6.2800e-03
+ 7.2770e-03 8.0560e-03 9.2370e-03 1.0644e-02 1.2402e-02 1.3754e-02
+ 1.5926e-02 1.7243e-02 1.9970e-02 2.1849e-02 2.2974e-02 2.3653e-02
+ 2.4595e-02 2.4272e-02 2.4750e-02 2.5272e-02 2.3972e-02 2.1843e-02
+ 1.9957e-02 1.9379e-02 1.7479e-02 1.4572e-02 1.3244e-02 1.1632e-02
+ 1.0086e-02 8.1450e-03 6.4210e-03 5.9280e-03 4.9350e-03 3.9180e-03
+ 3.6310e-03 2.9910e-03 2.2620e-03 2.0170e-03 1.7920e-03 1.5610e-03
+ 1.0430e-03 1.0380e-03 1.0100e-03 8.9000e-04 7.4100e-04 6.8600e-04
+ 5.8700e-04 6.2000e-04 7.3200e-04 4.4100e-04 4.6500e-04 3.6600e-04
+ 3.3400e-04 2.4300e-04 2.0000e-04 1.7200e-04 1.7700e-04 2.0600e-04
+ 2.6700e-04 2.8700e-04 2.6500e-04 2.1800e-04 2.4300e-04 2.3800e-04
+ 1.9500e-04 2.6900e-04 1.5500e-04 1.7200e-04 1.5000e-04 2.0300e-04
+ 9.7000e-05 4.6000e-05 4.1000e-05 4.6000e-05 5.8000e-05 6.4000e-05
+ 6.6000e-05 1.3500e-04 5.8000e-05 2.0000e-05 2.2000e-05 2.5000e-05
+ 2.7000e-05 2.6000e-05 2.6000e-05 2.5000e-05 2.2000e-05 2.9000e-05
+ 3.3000e-05 1.2200e-04 7.1000e-05 1.6000e-05 2.1000e-05 2.8000e-05
+ 3.1000e-05 7.9000e-05]
+Initializaiton Completed: 0.000635 Minutes
+Starting Optimization
+Optimization Complete: 0.004265 minutes
+Epsilons are: 
+[1.04478898 1.12022344]
+[1.05624374 1.04854713]
+
+Qold: -0.854713
+Qnew: -0.905127
+
+real    0m2.125s
+user    0m1.982s
+sys     0m0.084s
+Starting the next step...
+  iteration            = 5 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_4/newton/params 
+  iteration            = 5 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_4/newton/params 
+simulation run 7
+starting simulation step...
+  iteration            = 6 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_5/newton/params 
+
+real    0m10.557s
+user    0m10.488s
+sys     0m0.055s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 6 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_5/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [4.1000e-05 2.3000e-05 1.5000e-05 1.2000e-05 1.3000e-05 1.4000e-05
+ 1.3000e-05 1.1000e-05 1.1000e-05 9.0000e-06 9.0000e-06 9.0000e-06
+ 1.0000e-05 8.0000e-06 8.0000e-06 8.0000e-06 9.0000e-06 9.0000e-06
+ 1.1000e-05 4.4000e-05 4.3000e-05 2.9000e-05 3.5000e-05 1.0900e-04
+ 1.0500e-04 6.2000e-05 7.7000e-05 7.5000e-05 5.5000e-05 6.0000e-05
+ 1.0800e-04 1.7300e-04 2.2200e-04 3.0900e-04 2.1300e-04 1.9700e-04
+ 1.3800e-04 7.8000e-05 1.4800e-04 1.5200e-04 1.8000e-04 1.8900e-04
+ 2.1400e-04 4.0900e-04 3.6800e-04 4.2200e-04 5.2300e-04 5.5400e-04
+ 7.0500e-04 8.7700e-04 1.0370e-03 8.0500e-04 1.2700e-03 1.4930e-03
+ 1.7990e-03 2.2070e-03 2.4190e-03 2.9650e-03 3.5390e-03 4.3180e-03
+ 5.6370e-03 6.3480e-03 7.7690e-03 8.6740e-03 9.5630e-03 1.0566e-02
+ 1.2236e-02 1.3597e-02 1.5381e-02 1.6719e-02 1.8119e-02 1.9895e-02
+ 2.1400e-02 2.2485e-02 2.2219e-02 2.3241e-02 2.2773e-02 2.2387e-02
+ 2.2035e-02 2.1391e-02 2.0162e-02 1.9794e-02 1.7401e-02 1.5822e-02
+ 1.5611e-02 1.4182e-02 1.2252e-02 1.0945e-02 9.4730e-03 7.9770e-03
+ 7.3530e-03 6.6060e-03 5.7820e-03 5.0310e-03 4.9850e-03 4.1540e-03
+ 4.0390e-03 3.8450e-03 3.5290e-03 3.3070e-03 3.1890e-03 3.2160e-03
+ 2.9520e-03 2.7460e-03 2.2580e-03 2.3740e-03 2.2360e-03 2.4830e-03
+ 2.6420e-03 2.4540e-03 2.5790e-03 2.5900e-03 2.2410e-03 2.5990e-03
+ 2.3980e-03 2.6780e-03 3.2660e-03 3.4730e-03 3.3490e-03 4.3350e-03
+ 5.0640e-03 5.3170e-03 6.2560e-03 6.7830e-03 7.6000e-03 7.6750e-03
+ 9.3980e-03 1.0190e-02 1.0419e-02 1.1618e-02 1.2072e-02 1.4549e-02
+ 1.4884e-02 1.6542e-02 1.7148e-02 1.6805e-02 1.7408e-02 1.7401e-02
+ 1.7914e-02 1.6889e-02 1.5890e-02 1.6094e-02 1.4255e-02 1.3562e-02
+ 1.2601e-02 1.1073e-02 9.7320e-03 8.8700e-03 7.3430e-03 5.9990e-03
+ 5.3940e-03 4.9840e-03 4.2160e-03 3.4470e-03 2.9780e-03 2.6850e-03
+ 2.5780e-03 2.1570e-03 1.7620e-03 1.5060e-03 1.1660e-03 9.6200e-04
+ 7.8500e-04 7.5300e-04 8.5300e-04 4.5000e-04 5.8600e-04 4.8900e-04
+ 4.3200e-04 3.8400e-04 2.6100e-04 2.8800e-04 2.3100e-04 2.9700e-04
+ 2.0500e-04 1.7700e-04 2.5400e-04 1.6700e-04 1.4400e-04 1.7000e-04
+ 1.4900e-04 1.2400e-04 9.9000e-05 1.0800e-04 1.4300e-04 7.8000e-05
+ 7.5000e-05 7.7000e-05 8.3000e-05 1.1500e-04 9.7000e-05 7.9000e-05
+ 4.5000e-05 5.4000e-05 5.9000e-05 9.2000e-05 1.4900e-04 1.8500e-04
+ 1.6600e-04 2.0000e-04]
+Initializaiton Completed: 0.000637 Minutes
+Starting Optimization
+Optimization Complete: 0.005046 minutes
+Epsilons are: 
+[1.03333949 1.00832879]
+[1.04478898 1.12022344]
+
+Qold: -0.878627
+Qnew: -0.961541
+
+real    0m2.175s
+user    0m2.031s
+sys     0m0.085s
+Starting the next step...
+  iteration            = 6 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_5/newton/params 
+  iteration            = 6 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_5/newton/params 
+simulation run 8
+starting simulation step...
+  iteration            = 7 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_6/newton/params 
+
+real    0m10.620s
+user    0m10.530s
+sys     0m0.078s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 7 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_6/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [4.6000e-05 1.6000e-05 1.5000e-05 1.8000e-05 1.9000e-05 3.0000e-05
+ 2.3000e-05 6.1000e-05 8.0000e-05 7.1000e-05 9.6000e-05 3.7000e-05
+ 3.3000e-05 6.9000e-05 8.1000e-05 8.3000e-05 2.5000e-04 1.5100e-04
+ 1.5700e-04 1.7100e-04 8.8000e-05 6.5000e-05 5.8000e-05 9.5000e-05
+ 7.4000e-05 7.5000e-05 1.0800e-04 1.7300e-04 2.0500e-04 2.1700e-04
+ 1.6000e-04 1.6100e-04 2.2700e-04 1.4800e-04 1.4400e-04 2.4100e-04
+ 1.8400e-04 2.1300e-04 1.5500e-04 1.9600e-04 2.9600e-04 3.4300e-04
+ 3.4900e-04 6.7100e-04 6.6700e-04 5.7900e-04 7.6600e-04 8.6300e-04
+ 1.0310e-03 8.4300e-04 1.0150e-03 1.4300e-03 1.6090e-03 1.8680e-03
+ 2.3190e-03 2.4270e-03 2.7930e-03 3.2590e-03 3.9390e-03 4.6770e-03
+ 5.3580e-03 6.3260e-03 7.4670e-03 8.8320e-03 9.5730e-03 1.1131e-02
+ 1.3208e-02 1.3477e-02 1.4271e-02 1.6250e-02 1.6603e-02 1.8003e-02
+ 1.9877e-02 2.0656e-02 2.0793e-02 1.9706e-02 2.0136e-02 1.9916e-02
+ 1.9250e-02 1.7559e-02 1.7238e-02 1.5571e-02 1.4095e-02 1.3082e-02
+ 1.2423e-02 1.1138e-02 1.0183e-02 9.4810e-03 8.9600e-03 7.4940e-03
+ 7.0570e-03 6.5600e-03 5.6870e-03 5.4820e-03 4.7600e-03 3.9240e-03
+ 3.7730e-03 3.5770e-03 3.5550e-03 3.2880e-03 3.0920e-03 2.9500e-03
+ 2.8420e-03 2.4940e-03 2.3950e-03 2.3930e-03 2.3610e-03 2.3040e-03
+ 2.3670e-03 2.3920e-03 2.9670e-03 2.9060e-03 3.0110e-03 3.5580e-03
+ 3.5220e-03 3.1130e-03 3.5670e-03 3.9040e-03 4.2500e-03 4.6350e-03
+ 4.6810e-03 5.0700e-03 5.9970e-03 6.8720e-03 8.5270e-03 9.4050e-03
+ 1.0065e-02 1.0845e-02 1.0940e-02 1.2466e-02 1.3143e-02 1.4735e-02
+ 1.6418e-02 1.6406e-02 1.6584e-02 1.7912e-02 1.9335e-02 1.8932e-02
+ 1.9006e-02 1.8650e-02 1.7868e-02 1.6616e-02 1.5722e-02 1.4032e-02
+ 1.3029e-02 1.2478e-02 1.1820e-02 1.0371e-02 8.7570e-03 7.6160e-03
+ 7.3450e-03 6.0870e-03 5.7860e-03 4.9750e-03 3.7590e-03 3.6340e-03
+ 2.9580e-03 2.3610e-03 2.0220e-03 1.8920e-03 1.4710e-03 1.2500e-03
+ 1.1350e-03 8.3300e-04 7.9400e-04 5.8100e-04 6.3700e-04 5.2200e-04
+ 4.3600e-04 3.9800e-04 3.8800e-04 3.6500e-04 4.1100e-04 3.7000e-04
+ 3.5000e-04 3.4800e-04 3.8700e-04 1.9900e-04 1.2700e-04 7.8000e-05
+ 8.0000e-05 6.7000e-05 7.4000e-05 1.2800e-04 4.8000e-05 3.1000e-05
+ 2.6000e-05 5.2000e-05 2.7000e-05 1.5000e-05 1.4000e-05 1.2000e-05
+ 1.1000e-05 1.0000e-05 1.0000e-05 1.2000e-05 1.8000e-05 1.9000e-05
+ 5.6000e-05 1.1200e-04]
+Initializaiton Completed: 0.000611 Minutes
+Starting Optimization
+Optimization Complete: 0.005188 minutes
+Epsilons are: 
+[1.02988487 0.97706035]
+[1.03333949 1.00832879]
+
+Qold: -0.956334
+Qnew: -0.962927
+
+real    0m2.204s
+user    0m2.062s
+sys     0m0.082s
+Starting the next step...
+  iteration            = 7 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_6/newton/params 
+  iteration            = 7 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_6/newton/params 
+simulation run 9
+starting simulation step...
+  iteration            = 8 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_7/newton/params 
+
+real    0m10.482s
+user    0m10.408s
+sys     0m0.062s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 8 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_7/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [7.8000e-05 3.1000e-05 5.8000e-05 9.3000e-05 9.2000e-05 4.5000e-05
+ 2.6000e-05 2.6000e-05 2.2000e-05 2.2000e-05 1.9000e-05 4.1000e-05
+ 1.7000e-05 1.7000e-05 5.2000e-05 1.2000e-05 1.0000e-05 9.0000e-06
+ 1.2000e-05 1.3000e-05 2.3000e-05 4.6000e-05 7.8000e-05 8.0000e-05
+ 5.8000e-05 4.4000e-05 4.1000e-05 1.1200e-04 1.3400e-04 1.1300e-04
+ 1.2300e-04 9.1000e-05 1.6300e-04 1.0900e-04 1.0900e-04 2.6700e-04
+ 3.1300e-04 4.8400e-04 4.9800e-04 6.0100e-04 5.8500e-04 4.7800e-04
+ 4.2600e-04 5.0900e-04 4.7000e-04 4.7400e-04 5.6900e-04 9.0600e-04
+ 1.1520e-03 1.2020e-03 1.1300e-03 1.2730e-03 1.5510e-03 1.9430e-03
+ 2.1750e-03 2.3010e-03 2.9060e-03 3.0520e-03 3.9470e-03 4.5330e-03
+ 5.7060e-03 6.0490e-03 6.6490e-03 7.3700e-03 8.6390e-03 1.0378e-02
+ 1.1753e-02 1.3829e-02 1.4777e-02 1.6239e-02 1.6611e-02 1.7814e-02
+ 1.8458e-02 1.8187e-02 1.7942e-02 1.8086e-02 1.7481e-02 1.6677e-02
+ 1.5945e-02 1.4935e-02 1.3411e-02 1.2682e-02 1.1429e-02 9.9840e-03
+ 8.6310e-03 8.6740e-03 7.8880e-03 7.2470e-03 6.4480e-03 5.2010e-03
+ 4.8210e-03 5.1030e-03 4.2000e-03 3.7610e-03 3.3690e-03 3.5970e-03
+ 3.3210e-03 3.0590e-03 3.1040e-03 2.9490e-03 2.8870e-03 2.7420e-03
+ 3.1790e-03 2.9730e-03 3.1560e-03 3.0330e-03 3.0890e-03 3.3960e-03
+ 3.3670e-03 3.7770e-03 4.0800e-03 4.3370e-03 4.1960e-03 4.4620e-03
+ 5.2380e-03 5.7390e-03 6.6460e-03 6.6200e-03 7.7170e-03 8.0130e-03
+ 9.1420e-03 1.0440e-02 1.0897e-02 1.3320e-02 1.3768e-02 1.4917e-02
+ 1.6258e-02 1.8346e-02 1.9010e-02 2.0152e-02 2.0386e-02 2.1284e-02
+ 2.2213e-02 2.2729e-02 2.1843e-02 2.1798e-02 2.0649e-02 1.9575e-02
+ 1.9381e-02 1.7092e-02 1.5977e-02 1.3436e-02 1.2336e-02 1.0881e-02
+ 1.0207e-02 8.6860e-03 7.3830e-03 6.3310e-03 5.3660e-03 4.4730e-03
+ 3.7610e-03 2.8850e-03 2.4070e-03 1.9250e-03 1.8310e-03 1.3920e-03
+ 9.9700e-04 1.0930e-03 1.1130e-03 1.1960e-03 9.5500e-04 5.2800e-04
+ 5.4600e-04 4.2200e-04 2.4900e-04 2.6800e-04 2.0500e-04 2.2100e-04
+ 2.3100e-04 2.5200e-04 2.0200e-04 1.3900e-04 1.8700e-04 1.5000e-04
+ 1.6400e-04 1.7400e-04 1.7300e-04 1.3700e-04 2.1200e-04 1.8200e-04
+ 1.0700e-04 7.7000e-05 7.0000e-05 5.3000e-05 4.8000e-05 2.5000e-05
+ 3.1000e-05 4.0000e-05 2.6000e-05 2.0000e-05 2.2000e-05 2.8000e-05
+ 4.2000e-05 1.0000e-05 1.0000e-05 1.2000e-05 1.1000e-05 1.4000e-05
+ 2.0000e-05 4.6000e-05]
+Initializaiton Completed: 0.000633 Minutes
+Starting Optimization
+Optimization Complete: 0.004257 minutes
+Epsilons are: 
+[0.99481366 1.02612487]
+[1.02988487 0.97706035]
+
+Qold: -0.906766
+Qnew: -0.957828
+
+real    0m2.132s
+user    0m1.980s
+sys     0m0.091s
+Starting the next step...
+  iteration            = 8 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_7/newton/params 
+  iteration            = 8 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_7/newton/params 
+simulation run 10
+starting simulation step...
+  iteration            = 9 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_8/newton/params 
+
+real    0m10.563s
+user    0m10.444s
+sys     0m0.081s
+OPENAWSEM LOCATION is not specified. class OpenAWSEMProtein will be anavailable
+Packege openmmawsem was not found. Class OpenAWSEMProtein will be is anavailable
+  iteration            = 9 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_8/newton/params 
+number of inputted data sets: 200
+Initializing EstimatorsObject
+Determining Stationary Distribution Based on State Counts
+THREAD 0 PI: [5.5000e-05 1.9000e-05 1.6000e-05 1.5000e-05 2.1000e-05 5.6000e-05
+ 1.5000e-05 1.4000e-05 1.7000e-05 2.2000e-05 1.6000e-05 1.4000e-05
+ 1.4000e-05 2.1000e-05 3.9000e-05 2.9000e-05 2.3000e-05 2.4000e-05
+ 2.7000e-05 3.5000e-05 2.9000e-05 3.1000e-05 2.6000e-05 5.4000e-05
+ 4.0000e-05 4.3000e-05 1.6700e-04 2.8000e-04 1.3300e-04 1.5400e-04
+ 1.3500e-04 2.1200e-04 1.4700e-04 2.3500e-04 3.5100e-04 1.7900e-04
+ 3.6500e-04 2.2800e-04 2.4600e-04 3.4800e-04 4.8500e-04 7.3000e-04
+ 5.9100e-04 6.2900e-04 8.3900e-04 1.0940e-03 7.4800e-04 1.0770e-03
+ 1.2310e-03 1.6880e-03 2.1480e-03 2.1590e-03 2.5670e-03 3.2370e-03
+ 4.2960e-03 4.5050e-03 4.5020e-03 5.8320e-03 6.9160e-03 8.0220e-03
+ 9.0050e-03 1.0422e-02 1.0837e-02 1.2515e-02 1.4002e-02 1.5875e-02
+ 1.7556e-02 1.7950e-02 1.8313e-02 1.9376e-02 1.9544e-02 2.1849e-02
+ 2.0849e-02 2.0357e-02 1.8765e-02 1.7519e-02 1.7375e-02 1.6091e-02
+ 1.4730e-02 1.3019e-02 1.1900e-02 1.1131e-02 1.0014e-02 8.6230e-03
+ 7.7590e-03 6.9480e-03 6.3100e-03 5.8820e-03 5.5290e-03 5.1220e-03
+ 5.1080e-03 4.0310e-03 3.7740e-03 3.9340e-03 3.4970e-03 3.0360e-03
+ 2.6110e-03 2.5340e-03 2.3310e-03 2.3990e-03 2.6150e-03 2.6380e-03
+ 2.6210e-03 2.9630e-03 2.9470e-03 2.9490e-03 3.2290e-03 3.5410e-03
+ 3.8680e-03 3.9640e-03 3.7740e-03 4.8210e-03 4.7460e-03 4.7990e-03
+ 5.0730e-03 6.1620e-03 6.6330e-03 6.7460e-03 7.9760e-03 8.7220e-03
+ 9.7250e-03 9.9680e-03 1.1858e-02 1.2778e-02 1.3437e-02 1.4271e-02
+ 1.4975e-02 1.5957e-02 1.7343e-02 1.7687e-02 1.9468e-02 1.9560e-02
+ 1.9468e-02 1.8802e-02 1.7716e-02 1.8055e-02 1.6615e-02 1.6737e-02
+ 1.5957e-02 1.3569e-02 1.2885e-02 1.1107e-02 1.0419e-02 8.6080e-03
+ 7.7500e-03 6.8460e-03 5.7130e-03 4.5290e-03 4.1540e-03 3.9910e-03
+ 3.4020e-03 2.8330e-03 2.1950e-03 1.7090e-03 1.6410e-03 1.4660e-03
+ 1.2790e-03 1.0000e-03 1.0660e-03 8.9300e-04 7.1900e-04 5.2000e-04
+ 5.7100e-04 5.2200e-04 4.6300e-04 5.6400e-04 3.9600e-04 3.3900e-04
+ 3.2600e-04 2.5000e-04 2.0200e-04 1.2900e-04 1.0300e-04 1.1500e-04
+ 1.0900e-04 1.6800e-04 7.9000e-05 6.3000e-05 8.8000e-05 3.0000e-05
+ 2.8000e-05 3.4000e-05 4.8000e-05 1.5000e-05 1.1000e-05 1.0000e-05
+ 1.1000e-05 1.1000e-05 1.0000e-05 1.0000e-05 1.0000e-05 1.5000e-05
+ 2.1000e-05 2.2000e-05 1.4000e-05 1.8000e-05 1.9000e-05 2.1000e-05
+ 3.5000e-05 4.9000e-05]
+Initializaiton Completed: 0.000618 Minutes
+Starting Optimization
+Optimization Complete: 0.004635 minutes
+Epsilons are: 
+[0.98513298 1.008711  ]
+[0.99481366 1.02612487]
+
+Qold: -0.969614
+Qnew: -0.97054
+
+real    0m2.138s
+user    0m1.974s
+sys     0m0.104s
+Starting the next step...
+  iteration            = 9 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_8/newton/params 
+  iteration            = 9 
+  potentials_file      = potentials 
+  model_params_file    = /home/wlfbt/codes/pyODEM/examples/examples/example_1/iteration_8/newton/params 

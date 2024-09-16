@@ -1,0 +1,22 @@
+#bash
+
+num=10
+name=simple
+
+for i in `seq 1 1 $num`; do
+
+echo $starting simulation run $i
+
+time python -m langevin_model.simulation sim --name $name --steps 1000000
+time python -m run
+python -m langevin_model.simulation next --name $name --start
+
+done
+
+for i in iteration_*
+do
+    cp plot.py $i
+    cd $i
+    python plot.py
+    cd ..
+done
